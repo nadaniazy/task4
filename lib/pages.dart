@@ -7,7 +7,7 @@ class Pages extends StatelessWidget {
   Pages({Key? key}) : super(key: key);
   List page = [
     Content(
-        text: "Joker",
+        text: "Nada",
         text2: "this is joker",
         text3: "joker",
         image: "assets/images/images.jpg"),
